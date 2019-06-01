@@ -62,6 +62,7 @@
                 <configuration>
                     <path>/</path>
                     <port>9090</port>
+                    <uriEncoding>utf-8</uriEncoding>
                 </configuration>
             </plugin>
         </plugins>
